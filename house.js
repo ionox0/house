@@ -3,4 +3,5 @@ function house (type, street) {
   function getType (){return type;};
   function getStreet (){return street;};
   return constructor;
+
 }
